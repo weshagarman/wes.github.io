@@ -1,2 +1,2 @@
-# wes.github.io
+# weshagarman.github.io
 Personal website resume
